@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Test 2!"
-date:   2017-09-07 20:01:54 -0400
-categories: jekyll update
----
-
-Why is this not working
